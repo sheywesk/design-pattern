@@ -1,5 +1,8 @@
 package factoryMethod;
 
+/**
+ * Classe de produto concreto.
+ */
 public class IPhoneXProMax implements IPhone {
 
     @Override
