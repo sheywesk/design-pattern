@@ -1,5 +1,8 @@
-package factoryMethod;
+package factoryMethod.iphoneExample;
 
+/**
+ * Classe de produto concreto.
+ */
 public class IPhoneXPro implements IPhone{
 
     @Override

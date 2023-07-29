@@ -1,4 +1,4 @@
-package factoryMethod;
+package factoryMethod.iphoneExample;
 
 /**
  * Interface que representa o produto e possui ações 

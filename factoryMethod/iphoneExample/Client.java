@@ -1,4 +1,4 @@
-package factoryMethod;
+package factoryMethod.iphoneExample;
 
 public class Client {
     public static void main(String[] args) {
