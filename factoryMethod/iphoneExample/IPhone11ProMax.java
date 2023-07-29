@@ -1,4 +1,4 @@
-package factoryMethod;
+package factoryMethod.iphoneExample;
 /**
  * Classe de produto concreto.
  */

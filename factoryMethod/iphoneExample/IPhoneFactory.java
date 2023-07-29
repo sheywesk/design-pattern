@@ -1,4 +1,4 @@
-package factoryMethod;
+package factoryMethod.iphoneExample;
 
 /**
  * Classe que representa o Creator do padrão.
