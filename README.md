@@ -18,8 +18,15 @@ Os padrões estruturais se preocupa com a forma em que classes e objetos são co
 
 ## Adapter
 Converte a interface de uma classe em outra interface em que o cliente espera, ou seja, permite a comunição entre 2 classes incompativeis.
+
 ![Alt text](adapter.png)
 
 ## Bridge
 Bridge como o nome já sugere é uma ponte que facilita a comunicação entre dois aspectos, em que cada aspecto tem uma infinidade de variações. Dessa forma conseguimos construir hierarquias independentes, por exemplo formas geometricas e cores, podemos ter um quadrado vermelho e um triangulo vermelho, ou um quadrado azul e um triangulo rosa. O brigde permite essa variação de forma totalmente independente.
+
 ![Alt text](bridge.png)
+
+## Composite
+A ideia do composite é tratar um conjunto de elementos como um unico elemento, dessa forma podemos trabalhar com a unidade, bem como compor a unidade em um conjunto e usar o conjuto como uma unidade.
+
+![Alt text](composite.png)
