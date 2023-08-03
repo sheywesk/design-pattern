@@ -30,3 +30,8 @@ Bridge como o nome já sugere é uma ponte que facilita a comunicação entre do
 A ideia do composite é tratar um conjunto de elementos como um unico elemento, dessa forma podemos trabalhar com a unidade, bem como compor a unidade em um conjunto e usar o conjuto como uma unidade.
 
 ![Alt text](composite.png)
+
+## Decorator
+O decorator nos permite introduzir novos comportamentos a objetos existentes em tempo de execução. Sem o decorator iriamos fazer isso causando uma explosão de subclasses.
+
+![Alt text](decorator.png)
