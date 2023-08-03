@@ -37,6 +37,6 @@ O decorator nos permite introduzir novos comportamentos a objetos existentes em 
 ![Alt text](decorator.png)
 
 ## Proxy
-O proxy traz a ideia de controlar o acesso a algum objeto adicionar funcionalidades durante o acesso de alguma funcionalidade. O um dos pontos mais positivos é que trazemos novas funcionalidade para o código sem impactar os clientes que já utilizam aquela determinada funcionalidade.
+O proxy traz a ideia de controlar o acesso a algum objeto e adicionar novas funcionalidades durante o acesso desses objetos. Dessa forma criamos novas funcionalidade para o código sem impactar os clientes que já utilizam aquela determinada funcionalidade.
 
 ![Alt text](proxy.png)
