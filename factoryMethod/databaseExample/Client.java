@@ -2,7 +2,7 @@ package factoryMethod.databaseExample;
 
 public class Client {
     public static void main(String[] args) {
-        // Versão em que o cliente precisa ter ciencia das factorys existentes e 
+        // Versão em que o cliente precisa ter ciencia das factories existentes e
         // usar a que deseja.
         Database postgres1 = PostgresDBFactory.getDatabase();
         postgres1.insert("1324","salvando");
