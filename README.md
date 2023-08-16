@@ -40,3 +40,9 @@ O decorator nos permite introduzir novos comportamentos a objetos existentes em 
 O proxy traz a ideia de controlar o acesso a algum objeto e adicionar novas funcionalidades durante o acesso desses objetos. Dessa forma criamos novas funcionalidade para o código sem impactar os clientes que já utilizam aquela determinada funcionalidade.
 
 ![Alt text](proxy.png)
+
+# Comportamentais
+
+## Chain of Responsability
+Nos permite formar uma cadeia processamentos em que cada elo pode decidir se executa o processamento ou passa para o próximo.
+![img.png](chain-of-responsability.png)
